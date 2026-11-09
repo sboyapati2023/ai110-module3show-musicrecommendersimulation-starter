@@ -1,21 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
-11,Velvet Static,Mara Lune,r&b,romantic,0.55,92,0.68,0.70,0.40
-12,Paper Crowns,Kilo Verse,hip-hop,confident,0.68,95,0.62,0.85,0.12
-13,Ashfall Requiem,Grave Meridian,metal,angry,0.97,170,0.22,0.45,0.03
-14,Winter Letters,Elsa Varn,classical,melancholy,0.20,66,0.18,0.20,0.97
-15,Dusty Backroads,Hollis Creek,country,nostalgic,0.58,104,0.66,0.61,0.64
-16,Neon Cathedral,Pulse Theory,edm,euphoric,0.95,128,0.90,0.92,0.02
-17,Kitchen Window,Juniper and Pine,folk,bittersweet,0.33,84,0.38,0.44,0.91
-18,Island Time,Coral Sound,reggae,carefree,0.52,76,0.85,0.78,0.48
-19,Rust and Whiskey,Delta Ray,blues,sad,0.45,88,0.30,0.50,0.70
-20,Sol y Sombra,Rio Calma,latin,playful,0.64,100,0.88,0.90,0.30
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tags,instrumentalness,language
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,82,2020,uplifting;sunny;carefree,0.05,english
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,64,2020,calm;focused;nocturnal,0.85,instrumental
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,58,2000,aggressive;driving;defiant,0.10,english
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,55,2010,calm;cozy;rainy,0.90,instrumental
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,88,2020,driving;aggressive;motivational,0.02,english
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,30,2010,dreamy;calm;spacious,0.95,instrumental
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,42,1960,cozy;warm;calm,0.70,instrumental
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,61,1980,nocturnal;nostalgic;brooding,0.60,instrumental
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,50,2020,focused;calm;steady,0.88,instrumental
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,70,2010,uplifting;sunny;nostalgic,0.08,english
+11,Velvet Static,Mara Lune,r&b,romantic,0.55,92,0.68,0.70,0.40,66,2000,romantic;warm;smooth,0.04,english
+12,Paper Crowns,Kilo Verse,hip-hop,confident,0.68,95,0.62,0.85,0.12,79,2010,confident;defiant;motivational,0.01,english
+13,Ashfall Requiem,Grave Meridian,metal,angry,0.97,170,0.22,0.45,0.03,35,1990,aggressive;dark;defiant,0.15,english
+14,Winter Letters,Elsa Varn,classical,melancholy,0.20,66,0.18,0.20,0.97,25,1950,melancholy;wistful;spacious,0.98,instrumental
+15,Dusty Backroads,Hollis Creek,country,nostalgic,0.58,104,0.66,0.61,0.64,57,1990,nostalgic;warm;wistful,0.03,english
+16,Neon Cathedral,Pulse Theory,edm,euphoric,0.95,128,0.90,0.92,0.02,84,2010,euphoric;uplifting;driving,0.55,english
+17,Kitchen Window,Juniper and Pine,folk,bittersweet,0.33,84,0.38,0.44,0.91,38,1970,wistful;cozy;bittersweet,0.10,english
+18,Island Time,Coral Sound,reggae,carefree,0.52,76,0.85,0.78,0.48,60,1980,carefree;sunny;warm,0.06,english
+19,Rust and Whiskey,Delta Ray,blues,sad,0.45,88,0.30,0.50,0.70,33,1960,melancholy;wistful;brooding,0.12,english
+20,Sol y Sombra,Rio Calma,latin,playful,0.64,100,0.88,0.90,0.30,76,2020,playful;sunny;uplifting,0.04,spanish
